@@ -39,11 +39,9 @@ Cartao-amas-site/<br>
 
 ## ✅ Funcionalidades principais
 
-- Carrossel com imagens e botões de ação.
 - Visualização dos planos disponíveis.
 - Subpáginas detalhadas de cada plano.
 - Formulário de contato com envio via PHP.
-- Estrutura responsiva com CSS Grid e Flexbox.
 - Integração com redes sociais.
 
 ---
