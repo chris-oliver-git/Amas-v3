@@ -1,70 +1,88 @@
-# Bem vindo ao readme do site **Cartão Amas** #
+# Cartão Amas
 
-### Para acessar a página inicial, acesse [Site Cartão amas] <https://chris-oliver-git.github.io/Amas-v3/index.html> ###
+Bem-vindo ao repositório do site **Cartão Amas**!
 
-Este projeto é a homologação de um site de um pacote de benefícios para assistência médica, de forma semelhante de um plano de saúde.
+👉 [Acesse o site aqui](https://chris-oliver-git.github.io/Amas-v3/index.html)
 
-Estrutura do site:
+Este projeto é uma homologação de um site de pacote de benefícios voltado à assistência médica, funcionando de forma semelhante a um plano de saúde.
+
+---
+
+## 📁 Estrutura do Projeto
+
 Cartao-amas-site/
-├── index.html
-├── nossos-planos.html
-├── fale-conosco.html
+├── index.html # Página inicial com carrossel e rodapé completo
+├── nossos-planos.html # Página com grade de todos os planos
+├── fale-conosco.html # Formulário de contato, ouvidoria e seções extras
 ├── agendamento.html
 ├── anexos.html
-├── send-email.php
+├── send-email.php # Script para envio do formulário de contato
 ├── assets/
-│   ├── css/
-│   │   └── style.css
-|   |   ├── footer.css   
-|   |   ├── grid.css 
-|   |   ├── main.css 
-|   |   └── plan.css 
-│   ├── img/
-│   │   ├── logo-amas.png
-│   │   ├── logo-amas-sem-fundo.png
-│   │   ├── icone-amas.png
-│   │   ├── facebook.png
-│   │   ├── instagram.png
-│   │   ├── whatsapp.png
-│   │   ├── loja-android.png
-│   │   ├── loja-ios.png
-│   │   ├── familia-1.jpg
-│   │   ├── familia-consulta.jpg
-│   │   ├── jovens-consulta.jpg
-│   │   ├── amas-24.png
-│   │   ├── essencial-familia.png
-│   │   ├── facil.png
-│   │   ├── integral.png
-│   │   ├── especial.png
-│   │   ├── total.png (se ainda existir)
-│   └── scripts/
-│       └── main.js
+│ ├── css/
+│ │ ├── style.css
+│ │ ├── footer.css
+│ │ ├── grid.css
+│ │ ├── main.css
+│ │ └── plan.css
+│ ├── img/
+│ │ ├── logo-amas.png
+│ │ ├── logo-amas-sem-fundo.png
+│ │ ├── icone-amas.png
+│ │ ├── facebook.png
+│ │ ├── instagram.png
+│ │ ├── whatsapp.png
+│ │ ├── loja-android.png
+│ │ ├── loja-ios.png
+│ │ ├── familia-1.jpg
+│ │ ├── familia-consulta.jpg
+│ │ ├── jovens-consulta.jpg
+│ │ ├── amas-24.png
+│ │ ├── essencial-familia.png
+│ │ ├── facil.png
+│ │ ├── integral.png
+│ │ ├── especial.png
+│ │ └── total.png (se existir)
+│ └── scripts/
+│ └── main.js
 └── planos/
-    ├── amas-24.html
-    ├── essencial-familia.html
-    ├── facil.html
-    ├── integral.html
-    └── especial.html
+├── amas-24.html
+├── essencial-familia.html
+├── facil.html
+├── integral.html
+└── especial.html
 
 
-![Página Inicial] (/img/pagina-inicial.png)
---------------
-index.html: Página inicial com carrossel, botões de ação, rodapé completo.
+---
 
-nossos-planos.html: Grade com todos os planos.
+## 🖼️ Prévia
 
-planos/: Subpáginas individuais de cada plano.
+![Página Inicial](./assets/img/familia-1.jpg)
 
-fale-conosco.html: Contato, ouvidoria, formulário e seções adicionais.
+---
 
-assets/: Pasta principal de recursos do site:
+## ✅ Funcionalidades principais
 
-css/: Arquivos de estilo (como style.css)
+- Carrossel com imagens e botões de ação.
+- Visualização dos planos disponíveis.
+- Subpáginas detalhadas de cada plano.
+- Formulário de contato com envio via PHP.
+- Estrutura responsiva com CSS Grid e Flexbox.
+- Integração com redes sociais.
 
-img/: Imagens da logo, planos, botões de loja, redes sociais, etc.
+---
 
-scripts/: Arquivos JS (como main.js para carrossel e interações).
+## 📌 Tecnologias utilizadas
 
-send-email.php: Script responsável por enviar o formulário de contato.
+- HTML5
+- CSS3
+- JavaScript
+- PHP (para envio de formulários)
 
-Páginas extras como agendamento.html, anexos.html, etc.
+---
+
+## ✉️ Contato
+
+Caso queira contribuir, sugerir melhorias ou relatar bugs, fique à vontade para abrir uma _issue_ ou um _pull request_.
+
+---
+
