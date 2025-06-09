@@ -10,38 +10,37 @@ Este projeto é uma homologação de um site de pacote de benefícios voltado à
 
 ## 📁 Estrutura do Projeto
 
-Cartao-amas-site/
-├── index.html # Página inicial com carrossel e rodapé completo
-├── nossos-planos.html # Página com grade de todos os planos
-├── fale-conosco.html # Formulário de contato, ouvidoria e seções extras
-├── agendamento.html
-├── anexos.html
-├── send-email.php # Script para envio do formulário de contato
-├── assets/
-│ ├── css/
-│ │ ├── style.css
-│ │ ├── footer.css
-│ │ ├── grid.css
-│ │ ├── main.css
-│ │ └── plan.css
-│ ├── img/
-│ │ ├── logo-amas.png
-│ │ ├── logo-amas-sem-fundo.png
-│ │ ├── icone-amas.png
-│ │ ├── facebook.png
-│ │ ├── instagram.png
-│ │ ├── whatsapp.png
-│ │ ├── loja-android.png
-│ │ ├── loja-ios.png
-│ │ ├── familia-1.jpg
-│ │ ├── familia-consulta.jpg
-│ │ ├── jovens-consulta.jpg
-│ │ ├── amas-24.png
-│ │ ├── essencial-familia.png
-│ │ ├── facil.png
-│ │ ├── integral.png
-│ │ ├── especial.png
-│ │ └── total.png (se existir)
+Cartao-amas-site/<br>
+├── index.html # Página inicial com carrossel e rodapé completo<br>
+├── nossos-planos.html # Página com grade de todos os planos<br>
+├── fale-conosco.html # Formulário de contato, ouvidoria e seções extras<br>
+├── agendamento.html<br>
+├── anexos.html<br>
+├── send-email.php # Script para envio do formulário de contato<br>
+├── assets/<br>
+│ ├── css/<br>
+│ │ ├── style.css<br>
+│ │ ├── footer.css<br>
+│ │ ├── grid.css<br>
+│ │ ├── main.css<br>
+│ │ └── plan.css<br>
+│ ├── img/<br>
+│ │ ├── logo-amas.png<br>
+│ │ ├── logo-amas-sem-fundo.png<br>
+│ │ ├── icone-amas.png<br>
+│ │ ├── facebook.png<br>
+│ │ ├── instagram.png<br>
+│ │ ├── whatsapp.png<br>
+│ │ ├── loja-android.png<br>
+│ │ ├── loja-ios.png<br>
+│ │ ├── familia-1.jpg<br>
+│ │ ├── familia-consulta.jpg<br>
+│ │ ├── jovens-consulta.jpg<br>
+│ │ ├── amas-24.png<br>
+│ │ ├── essencial-familia.png<br>
+│ │ ├── facil.png<br>
+│ │ ├── integral.png<br>
+│ │ └── especial.png <br>
 │ └── scripts/
 │ └── main.js
 └── planos/
@@ -56,8 +55,7 @@ Cartao-amas-site/
 
 ## 🖼️ Prévia
 
-![Página Inicial](./assets/img/familia-1.jpg)
-
+![Página Inicial](./assets/img/pagina-inicial.png)
 ---
 
 ## ✅ Funcionalidades principais
