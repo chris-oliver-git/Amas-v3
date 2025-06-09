@@ -22,12 +22,12 @@ Cartao-amas-site/<br>
 │   ├── img/<br>
 │   └── scripts/<br>
 │   └── main.js<br>
-└── planos/<br>
-    ├── amas-24.html<br>
-    ├── essencial-familia.html<br>
-    ├── facil.html<br>
-    ├── integral.html<br>
-    └── especial.html<br>
+├── planos/<br>
+|    ├── amas-24.html<br>
+|    ├── essencial-familia.html<br>
+|    ├── facil.html<br>
+|    ├── integral.html<br>
+|    └── especial.html<br>
 
 
 ---
