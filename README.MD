@@ -18,16 +18,16 @@ Cartao-amas-site/<br>
 ├── anexos.html<br>
 ├── send-email.php<br>
 ├── assets/<br>
-│ ├── css/<br>
-│ ├── img/<br>
-│ └── scripts/<br>
-│ └── main.js<br>
+│   ├── css/<br>
+│   ├── img/<br>
+│   └── scripts/<br>
+│   └── main.js<br>
 └── planos/<br>
-├── amas-24.html<br>
-├── essencial-familia.html<br>
-├── facil.html<br>
-├── integral.html<br>
-└── especial.html<br>
+    ├── amas-24.html<br>
+    ├── essencial-familia.html<br>
+    ├── facil.html<br>
+    ├── integral.html<br>
+    └── especial.html<br>
 
 
 ---
