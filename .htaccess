@@ -1,14 +1,10 @@
-# Ativa o mecanismo de reescrita
+# Ativar reescrita
 RewriteEngine On
-
-# Remove .html da URL
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^([^/]+)$ $1.html [L]
-
-# Para arquivos em subpastas (como /planos/facil)
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.+)/$ $1.html [L]
 
 # Redireciona /index.html para /
 RewriteCond %{THE_REQUEST} /index\.html [NC]
 RewriteRule ^index\.html$ / [R=301,L]
+
+# Reescreve qualquer URL sem extensão para .html, se existir
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^([^\.]+)$ $1.html [L]
